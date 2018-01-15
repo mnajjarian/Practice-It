@@ -1,11 +1,9 @@
-Write a complete Java program in a class named Stewie that prints the following output:
+/*Write a complete Java program in a class named Stewie that prints the following output:
 
 //////////////////////
 || Victory is mine! ||
 \\\\\\\\\\\\\\\\\\\\\\
-
-----------------------------------------------------------------
-Type your solution here:
+*/
 public class Stewie {
     public static void main(String[] args) {
         System.out.println("//////////////////////");
