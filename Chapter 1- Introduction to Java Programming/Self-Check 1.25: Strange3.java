@@ -1,4 +1,4 @@
-What is the output produced from the following program? You may wish to draw a structure diagram first. 
+/*What is the output produced from the following program? You may wish to draw a structure diagram first. 
 This is a slightly modified version of the previous problem, Strange.
 
 public class Strange {
@@ -23,9 +23,7 @@ public class Strange {
         first();
         second();
     }
-}
--------------------------------------------------------
-output:	
+}*/	
 Inside second method.
 Inside first method.
 Inside first method.
