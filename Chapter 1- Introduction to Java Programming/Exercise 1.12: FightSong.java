@@ -1,4 +1,4 @@
-Write a complete Java program in a class named FightSong that generates the following three figures of output. 
+/*Write a complete Java program in a class named FightSong that generates the following three figures of output. 
 Use static methods to show structure and eliminate redundancy in your solution.
 
 In particular, make sure that main contains no System.out.println statements, that any System.out.println statement(s) 
@@ -24,9 +24,7 @@ You can do it.
 
 Go, team, go!
 You can do it.
-
--------------------------------------------------------------
-Type your solution here:
+*/
 
 public class FightSong {
     public static void main(String[] args) {
