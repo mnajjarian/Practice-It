@@ -5,5 +5,4 @@ an equivalent value (hint: how could you factor out x here?).
 y = 12.3x4 - 9.1x3 + 19.3x2 - 4.6x + 34.2
 */
 
-Type your solution here:
   double y = x * (x * (19.3 + x * (12.3 * x - 9.1)) - 4.6) + 34.2;
