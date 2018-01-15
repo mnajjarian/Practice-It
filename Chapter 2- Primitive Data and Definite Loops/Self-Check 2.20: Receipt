@@ -1,4 +1,4 @@
-The following program redundantly repeats the same expressions many times. Modify the program to remove all redundant 
+/*The following program redundantly repeats the same expressions many times. Modify the program to remove all redundant 
 expressions using variables of appropriate types.
 
 // This program computes the total amount owed for a meal,
@@ -17,9 +17,7 @@ public class Receipt {
                             (38 + 40 + 30) * .15);
 
     }
-}
--------------------------------------------------------------
-Type your solution here:
+}*/
 
 // This program computes the total amount owed for a meal,
 // assuming 8% tax and a 15% tip.
