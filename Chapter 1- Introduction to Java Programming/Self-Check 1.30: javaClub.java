@@ -1,4 +1,4 @@
-Consider the following program, saved into a file named Example.java:
+/*Consider the following program, saved into a file named Example.java:
 
 
    public class Example {
@@ -17,7 +17,7 @@ Consider the following program, saved into a file named Example.java:
   }
 What would happen if each of the following changes were made to the Example program? 
 If there would be no change to the program, choose "nothing". If it would cause the program not to compile, 
-choose "error". If it would change the program's output, choose "output". Treat each change independently of the others.
+choose "error". If it would change the program's output, choose "output". Treat each change independently of the others.*/
 
 a) Change line 1 to: 
 public class Demonstration                                ----> error
