@@ -1,4 +1,4 @@
-The following program is legal under Java's syntax rules, but it is difficult to read because of its layout 
+/*The following program is legal under Java's syntax rules, but it is difficult to read because of its layout 
 and lack of comments. Reformat it using the rules given in Chapter 1, and add a comment header at the top of the program.
 
 (Practice-It isn't really able to check that you satisfied the requirements of this question. You will receive credit 
@@ -17,9 +17,8 @@ System.out.println
 ("will be happier if you choose");
         System.out.println("to format your programs."
 );    }
-   }
+   }*/
 
--------------------------------------------------------------------------------
 /*this is comment!
 and continue...*/
 public class GiveAdvice { 
