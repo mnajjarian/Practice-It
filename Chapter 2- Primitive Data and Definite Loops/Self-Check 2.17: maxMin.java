@@ -1,4 +1,4 @@
-What is the output from the following code?
+/*What is the output from the following code?
 
 
 int max;
@@ -9,7 +9,7 @@ min = max - min;
 System.out.println(max * 2);
 System.out.println(max + min);
 System.out.println(max);
-System.out.println(min);
+System.out.println(min);*/
 
 
 output:
