@@ -1,4 +1,4 @@
-What is the output produced from the following program? You may wish to draw a structure diagram first.
+/*What is the output produced from the following program? You may wish to draw a structure diagram first.
 
 
 public class Tricky {
@@ -17,9 +17,7 @@ public class Tricky {
         message1();
         System.out.println("Done with message2.");
     }
-}
-------------------------------------------------------------------------------------
-output:
+}*/
 This is message1.
 This is message2.
 This is message1.
