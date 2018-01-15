@@ -7,7 +7,7 @@ public class Commentary {
         System.out.println("have // characters on them");
         System.out.println("which means ");  // that they are comments
         // System.out.println("written by the programmer.");
-​
+
         System.out.println("lines can also");
         System.out.println("have /* and */ characters");
         /* System.out.println("which represents");
