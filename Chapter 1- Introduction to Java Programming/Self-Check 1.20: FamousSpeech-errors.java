@@ -1,4 +1,4 @@
-The following program contains four errors. Correct the errors and submit a working version of the program.
+/*The following program contains four errors. Correct the errors and submit a working version of the program.
 
 public class FamousSpeech
     public static void main(String[]) {
@@ -14,8 +14,7 @@ public class FamousSpeech
         System.out.println("created");
         System.out.println("equal");
     }
-}
---------------------------------------------------------------------------------
+}*/
 public class FamousSpeech {
     public static void main(String[] args) {
         System.out.println("Four score and seven years ago,");
