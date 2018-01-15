@@ -1,5 +1,5 @@
-What is the output produced from the following program? You may wish to draw a structure diagram first. This is a slightly modified version of the previous problem, Strange.
-
+/*What is the output produced from the following program? You may wish to draw a structure diagram first. This is 
+a slightly modified version of the previous problem, Strange.
 
 public class Strange {
     public static void main(String[] args) {
@@ -23,9 +23,7 @@ public class Strange {
         second();
         System.out.println("Inside third method.");
     }
-}
------------------------------------------------------------
-output:
+}*/
 Inside first method.
 Inside first method.
 Inside second method.
