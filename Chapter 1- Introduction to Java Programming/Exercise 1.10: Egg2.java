@@ -1,4 +1,4 @@
-Write a complete Java program in a class named Egg2 that generates the following output. Use static methods to 
+/*Write a complete Java program in a class named Egg2 that generates the following output. Use static methods to 
 show structure and eliminate redundancy in your solution.
 
   _______
@@ -21,9 +21,7 @@ show structure and eliminate redundancy in your solution.
 -"-'-"-'-"-
 \         /
  \_______/
-
-----------------------------------------------------
-Type your solution here:
+*/
 
 public class Egg2 {
     public static void main(String[] args) {
