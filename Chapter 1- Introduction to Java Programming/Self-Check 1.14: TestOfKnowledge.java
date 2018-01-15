@@ -1,4 +1,4 @@
-What series of println statements would produce the following output?
+/*What series of println statements would produce the following output?
 
 This is a test of your
 knowledge of "quotes" used
@@ -7,9 +7,7 @@ in 'string literals.'
 You're bound to "get it right"
 if you read the section on
 ''quotes.''
-
-------------------------------------------------------------
-Type your solution here:
+*/
 System.out.println("This is a test of your");
 System.out.println("knowledge of \"quotes\" used");
 System.out.println("in 'string literals.'");
