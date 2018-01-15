@@ -1,4 +1,4 @@
-What is the output from the following Java program? (Assume that a tab is expanded into eight spaces.)
+/*What is the output from the following Java program? (Assume that a tab is expanded into eight spaces.)
 
 
 public class Letter {
@@ -10,9 +10,8 @@ public class Letter {
         System.out.println("\nSincerely,");
         System.out.println("Susan \"Suzy\" Smith");
     }
-}
-------------------------------------------------------
-output:
+}*/
+
 Dear "DoubleSlash" magazine,
 
         Your publication confuses me.  Is it
