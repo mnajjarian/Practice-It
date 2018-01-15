@@ -1,4 +1,4 @@
-What is the output of the following oddStuff method?
+/*What is the output of the following oddStuff method?
 
 
 public static void oddStuff() {
@@ -7,8 +7,7 @@ public static void oddStuff() {
         System.out.println(number);
         number = number / 2;
     }   
-}
+}*/
 
-output:
        4
        2
