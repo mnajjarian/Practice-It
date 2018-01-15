@@ -1,5 +1,5 @@
-Trace the evaluation of the following expressions, and give their resulting values. Make sure to give a value of 
-the appropriate type (such as including a .0 at the end of a double).
+/*Trace the evaluation of the following expressions, and give their resulting values. Make sure to give a value of 
+the appropriate type (such as including a .0 at the end of a double).*/
 
 2 + 3 * 4 - 6	                --------> 8
  14 / 7 * 2 + 30 / 5 + 1	    --------> 11
