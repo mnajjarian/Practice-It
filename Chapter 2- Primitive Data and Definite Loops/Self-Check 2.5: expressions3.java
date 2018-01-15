@@ -1,5 +1,5 @@
-Trace the evaluation of the following expressions, and give their resulting values. Make sure to give a value of 
-the appropriate type (such as including a .0 at the end of a double or quotes around a String).
+/*Trace the evaluation of the following expressions, and give their resulting values. Make sure to give a value of 
+the appropriate type (such as including a .0 at the end of a double or quotes around a String).*/
 
 2 + 2 + 3 + 4	                            --------> 11
 "2 + 2 " + 3 + 4	                        --------> "2 + 2 34"
