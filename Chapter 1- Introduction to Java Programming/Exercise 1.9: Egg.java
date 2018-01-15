@@ -1,4 +1,4 @@
-Write a complete Java program in a class named Egg that displays the following output:
+/*Write a complete Java program in a class named Egg that displays the following output:
 
   _______
  /       \
@@ -7,8 +7,7 @@ Write a complete Java program in a class named Egg that displays the following o
 \         /
  \_______/
  
-----------------------------------------------
-Type your solution here:
+*/
 
 public class Egg {
     public static void main(String[] args) {
