@@ -1,5 +1,5 @@
-Write a complete Java program called Meta whose output is the text that would be the source code of a Java program named Hello 
-that prints "Hello, world!" as its output:
+/*Write a complete Java program called Meta whose output is the text that would be the source code of a Java program named 
+Hello that prints "Hello, world!" as its output:
 
 
 public class Hello {
@@ -9,9 +9,7 @@ public class Hello {
 }
 
 Your program must produce exactly the output shown in order to pass (using exactly four spaces for each increment of 
-indentation in the output).
------------------------------------------------------------
-Type your solution here:
+indentation in the output).*/
 
 public class Meta {
     public static void main(String[] args) {
