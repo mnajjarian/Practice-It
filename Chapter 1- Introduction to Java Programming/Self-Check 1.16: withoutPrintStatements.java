@@ -1,4 +1,4 @@
-Rewrite the following code as a series of equivalent System.out.println statements 
+/*Rewrite the following code as a series of equivalent System.out.println statements 
 (i.e., without any System.out.print statements):
 
 System.out.print("Twas ");
@@ -10,8 +10,7 @@ System.out.println("gyre and");
 System.out.println(  "gimble");
 System.out.println();
 System.out.println(  "in the wabe." );
------------------------------------------------------------------------------------
-Type your solution here:
+*/
 System.out.println("Twas brillig and the");
 System.out.println("  slithy toves did gyre and");
 System.out.println("gimble");
