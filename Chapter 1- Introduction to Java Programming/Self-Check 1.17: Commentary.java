@@ -1,4 +1,4 @@
-What is the output of the following program? Note that the program contains several comments.
+/*What is the output of the following program? Note that the program contains several comments.
 
 
 public class Commentary {
@@ -14,9 +14,7 @@ public class Commentary {
         System.out.println("a multi-line style");
         */ System.out.println("of comment.");
     }
-}
----------------------------------------------------------------------------------
-output:
+}*/
 some lines of code
 have // characters on them
 which means
