@@ -1,4 +1,4 @@
-Write a complete Java program in a class named EggStop that generates the following output. 
+/*Write a complete Java program in a class named EggStop that generates the following output. 
 Use static methods to show structure and eliminate redundancy in your solution.
 
   ______
@@ -22,8 +22,7 @@ Use static methods to show structure and eliminate redundancy in your solution.
  \______/
 +--------+
 
---------------------------------------------------------------------
-Type your solution here:
+*/
 
 public class EggStop {
 
