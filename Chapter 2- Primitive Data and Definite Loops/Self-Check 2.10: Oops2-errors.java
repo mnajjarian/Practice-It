@@ -1,4 +1,4 @@
-The following program contains 9 errors. Correct the errors and submit a working version of the program. The corrected 
+/*The following program contains 9 errors. Correct the errors and submit a working version of the program. The corrected 
 version of the program should produce the following output:
 
 x is 0
@@ -17,9 +17,8 @@ public class Oops2 {
         y = int x + 1;
         System.out.println("x and y are " + x + and + y);
     }
-}
+}*/
 
-----------------------------------------------------------
 public class Oops2 {
     public static void main(String[] args) {
         int x = 0;
