@@ -1,4 +1,4 @@
-Complete the following for loop to produce the following output:
+/*Complete the following for loop to produce the following output:
 
 -4
 14
@@ -6,8 +6,7 @@ Complete the following for loop to produce the following output:
 50
 68
 86
-
-Type your solution here:
+*/
 int a = -22;
 for (int i = 1; i <= 6; i++) {
     a+=18;
