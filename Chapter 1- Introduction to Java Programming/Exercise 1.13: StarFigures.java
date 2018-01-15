@@ -1,4 +1,4 @@
-Write a complete Java program in a class named StarFigures that generates the following output. 
+/*Write a complete Java program in a class named StarFigures that generates the following output. 
 Use static methods to show structure and eliminate redundancy in your solution.
 
 *****
@@ -23,9 +23,7 @@ Use static methods to show structure and eliminate redundancy in your solution.
  * *
   *
  * *
- 
- -------------------------------------------------
-Type your solution here:
+*/
 
 public class StarFigures {
     public static void main(String[] args) {
