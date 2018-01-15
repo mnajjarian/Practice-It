@@ -1,7 +1,0 @@
-Write a println statement that produces the following output:
-
-/ \ // \\ /// \\\
-
-----------------------------------------------------------------
-Type your solution here:
-System.out.println("/ \\ // \\\\ /// \\\\\\");
