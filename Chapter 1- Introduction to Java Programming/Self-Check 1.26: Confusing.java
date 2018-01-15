@@ -1,4 +1,4 @@
-What is the output from the following Java program?
+/*What is the output from the following Java program?
 
 public class Confusing {
     public static void method1() {
@@ -19,9 +19,7 @@ public class Confusing {
         method2();
         method3();
     }
-}
---------------------------------------------------------
-output:	
+}*/	
 I am method 1.
 I am method 1.
 I am method 2.
